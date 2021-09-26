@@ -5,16 +5,25 @@ The DreamspaceSeries are pieces to deep dive into the edge of your consciousness
 I have always been fascinated by the hypnotic effect when looking into the glow of an almost burnt down bonfire.
 Or the shadows cast on the wall when light rays from the sun are passed through leafs on a tree swinging in the wind.
 
+[![DreamspaceSquare](DreamspaceSquare.png)](https://www.youtube.com/watch?v=afQHI4Jv7s8)
 ## DreamSpaceSquare
-![DreamspaceSquare.png](DreamspaceSquare.png)
 
 
+
+
+
+
+[![DreamspaceDiamond](DreamspaceDiamond.png)](https://www.youtube.com/watch?v=YWEqOzNJkSY)
 ## DreamspaceDiamond
-![DreamspaceDiamond.png](DreamspaceDiamond.png)
 
 
+
+
+
+
+[![DreamspaceStar.png](DreamspaceStar.png)](https://www.youtube.com/watch?v=gPIzkvzx-SA)
 ## DreamspaceStar
-![DreamspaceStar.png](DreamspaceStar.png)
+
 
 ## Technique
 Using a shader I sweaping trough the rows of an image taking each row and stretching it out.
@@ -22,12 +31,17 @@ This output is then composed using a projection mapping software layering multip
 The timing and the image-row selected are based on an older algorithm of mine, which I call walkers. Based on a random number, the "walker" will interpolate from a previous random value to a new one in a given rhythmic pattern.
 
 # Two more pieces
+[![SometimesWeAllNeedAPush](SometimesWeAllNeedAPush.png)](https://www.youtube.com/watch?v=xOKUm-bE4iE)
 ## SometimesWeAllNeedAPush
-![SometimesWeAllNeedAPush.png](SometimesWeAllNeedAPush.png)
 
 
+
+
+
+
+[![HypnoticPulseOfStatistics](HypnoticPulseOfStatistics.png)](https://www.youtube.com/watch?v=jyGLdkqk_vw)
 ## HypnoticPulseOfStatistics
-![HypnoticPulseOfStatistics.png](HypnoticPulseOfStatistics.png)
+
 
 ## Technique
 Both pieces are based on the same technique using the "walker" algorithm described above. However, there are 7 walkers in parallel, having a repetitive slow rhythm. Also these pieces create a kind of hypnotic character, but are much more simple in their expression.
