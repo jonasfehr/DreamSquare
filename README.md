@@ -6,23 +6,6 @@ I have always been fascinated by the hypnotic effect when looking into the glow 
 Or the shadows cast on the wall when light rays from the sun are passed through leafs on a tree swinging in the wind.
 
 ## DreamSpaceSquare
-<<<<<<< HEAD
-<video width="256" height="256" controls>
-  <source src="DreamspaceSquare.mov" type="video/mp4">
-</video>
-
-
-## DreamspaceDiamond
-<video width="256" height="256" controls>
-  <source src="DreamspaceDiamond.mov" type="video/mp4">
-</video>
-
-
-## DreamspaceStar
-<video width="256" height="256" controls>
-  <source src="/DreamspaceStar.mov" type="video/mp4">
-</video>
-=======
 ![](DreamspaceSquare.mov)
 
 
@@ -31,8 +14,7 @@ Or the shadows cast on the wall when light rays from the sun are passed through 
 
 
 ## DreamspaceStar
-![](/DreamspaceStar.mov)
->>>>>>> 84df1d63e70497316c1f5d93ea53ae57d51b0dc6
+![](https://vimeo.com/615484523)
 
 ## Technique
 Using a shader I sweaping trough the rows of an image taking each row and stretching it out.
@@ -41,21 +23,10 @@ The timing and the image-row selected are based on an older algorithm of mine, w
 
 # Two more pieces
 ## SometimesWeAllNeedAPush
-<<<<<<< HEAD
-<video width="256" height="256" controls>
-  <source src="SometimesWeAllNeedAPush.mov" type="video/mp4">
-</video>
-
-## HypnoticPulseOfStatistics
-<video width="256" height="256" controls>
-  <source src="HypnoticPulseOfStatistics.mov" type="video/mp4">
-</video>
-=======
 ![](SometimesWeAllNeedAPush.mov)
 
 ## HypnoticPulseOfStatistics
 ![](HypnoticPulseOfStatistics.mov)
->>>>>>> 84df1d63e70497316c1f5d93ea53ae57d51b0dc6
 
 ## Technique
 Both pieces are based on the same technique using the "walker" algorithm described above. However, there are 7 walkers in parallel, having a repetitive slow rhythm. Also these pieces create a kind of hypnotic character, but are much more simple in their expression.
