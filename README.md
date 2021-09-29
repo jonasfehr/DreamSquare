@@ -1,5 +1,7 @@
 This is the repository for the cennznet grant => https://gitcoin.co/issue/cennznet/grants/9/100026471
 
+THE PICTURES ARE LINKS TO VIDEOS ON YOUTUBE.
+
 # DreamspaceSeries
 The DreamspaceSeries are pieces to deep dive into the edge of your consciousness where you get lost in time.
 I have always been fascinated by the hypnotic effect when looking into the glow of an almost burnt down bonfire.
